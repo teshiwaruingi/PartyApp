@@ -26,10 +26,10 @@ Don't know what party is happening this week? Feeling sad that you missed the GR
 
 
 - [x] Login/Signup for User.
-- [] Post upcoming party, using picture and description.
-- [] Like feature for each post, visible for all.
-- [] Comment and interact with other party goers.
-- [] Look at other people's profile page to see what posts they have liked and what they have posted.
+- [ ] Post upcoming party, using picture and description.
+- [ ] Like feature for each post, visible for all.
+- [ ] Comment and interact with other party goers.
+- [ ] Look at other people's profile page to see what posts they have liked and what they have posted.
 
 
 **Optional Nice-to-have Stories**
