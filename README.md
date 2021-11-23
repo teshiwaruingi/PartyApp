@@ -98,7 +98,8 @@ Don't know what party is happening this week? Feeling sad that you missed the GR
    * Home Screen
    * Login Screen After pressing logout
 
-
+### Updated GIF
+<img src="https://i.imgur.com/Skl2Wdv.gif"/>
 ## Wireframes
 <img src="https://i.imgur.com/ARzrOOS.jpg" width=600/>
 
